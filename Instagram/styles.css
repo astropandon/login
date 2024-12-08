@@ -80,7 +80,9 @@ body{
 	height: 2px;
 	background: #efefef
 }
-
+.btn{
+	width: 100%;
+}
 .wrapper .header .or p{
 	color: #999;
 	font-size: 12px;
